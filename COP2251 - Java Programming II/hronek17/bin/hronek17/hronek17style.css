@@ -1,0 +1,7 @@
+.text-area {
+	-fx-text-fill: blue;
+}
+
+.text-area .content {
+	-fx-background-color: grey;
+}
